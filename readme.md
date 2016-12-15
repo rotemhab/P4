@@ -18,7 +18,9 @@ Debugging was done using Laravel Debugger - https://github.com/barryvdh/laravel-
 
 # CRUD:
 Create- database rows can be created in p4.rotemhaber.com/upload
+
 Read- almost all pages read from the database, but the best example is the home dashboard in http://p4.rotemhaber.com/
+
 Update/Delete - Databse rows can be both updated and deleted through the search page in http://p4.rotemhaber.com/search
 
 
