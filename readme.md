@@ -1,4 +1,4 @@
-# Project Title
+# Project Title:
 Expensy
 
 # Live URL:
@@ -9,7 +9,7 @@ The Expensy web app is designed to help households keep track of their monthly e
 
 # Demo:
 
-# Plugins
+# Plugins:
 Charts were built using Charts.js -http://www.chartjs.org/
 
 Design was partially built using bootstrap - http://getbootstrap.com/
