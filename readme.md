@@ -11,6 +11,8 @@ The Expensy web app is designed to help households keep track of their household
 
 # Plugins
 Charts were built using Charts.js -http://www.chartjs.org/
+
 Design was partially built using bootstrap - http://getbootstrap.com/
+
 Debugging was done using Laravel Debugger - https://github.com/barryvdh/laravel-debugbar
-pen-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
+
