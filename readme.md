@@ -8,6 +8,7 @@ p4.rotemhaber.com
 The Expensy web app is designed to help households keep track of their monthly expenses. It allows the user to get a clear view of all of his/her expenses broken down by category and transactions, as well as delete and edit any unwanted expenses.
 
 # Demo:
+http://www.screencast.com/t/U7u4rXsK06p
 
 # Plugins:
 Charts were built using Charts.js -http://www.chartjs.org/
